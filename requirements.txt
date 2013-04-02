@@ -1,0 +1,4 @@
+Django>=1.5,<1.6
+-e git+git@github.com:Fantomas42/django-blog-zinnia@d3e0457e597d11d433b9a96ed8648ce449469d32#egg=django-blog-zinnia
+pillow
+django-taggit
